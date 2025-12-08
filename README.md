@@ -1,2 +1,2 @@
-# .github
+# Sistemas Qintess
 Nossos Sistemas

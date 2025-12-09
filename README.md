@@ -6,7 +6,7 @@ Nossos Sistemas
 | Característica | 🗳️ Estatuinte | 📝 Avaliação Setorial | 🎓 Sistema de Concurso | 📞 GLPI (Helpdesk) | 🔗 Uesc\_API |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Nome** | Estatuinte | Avaliação Setorial | Sistema de Concurso | GLPI (Helpdesk) | Uesc\_API |
-| **Link de acesso** | [https://sorteioestatuinte.uesc.br/](https://sorteioestatuinte.uesc.br/) | *sem link ainda* | [https://concursos.uesc.br/](https://concursos.uesc.br/) | [http://helpdesk.uesc.br/](http://helpdesk.uesc.br/) | [https://integracao.uesc.br](https://integracao.uesc.br/) |
+| **Link de acesso** | [https://sorteioestatuinte.uesc.br/](https://sorteioestatuinte.uesc.br/) | *sem link ainda* | [https://concursos.uesc.br/](https://concursos.uesc.br/) | [https://helpdesk.uesc.br/](https://helpdesk.uesc.br/) | [https://integracao.uesc.br](https://integracao.uesc.br/) |
 | **IP Servidor UESC** | 172.16.0.249 | 172.16.0.249 | 172.16.0.189 | 172.16.0.249 | 172.16.0.209 |
 | **Linguagem (Back-end)** | PHP 8.3.6 (Laravel 12.33.0) | PHP 8.3.6 (Laravel 12.33.0) | Spring Boot 3.5.6 + Java 21 | PHP 8.3.6 | .Net Framework 8.0 / C\# |
 | **Tipo de banco** | MariaDB 10.11.13 | MySQL | PostgreSQL 16+ | MariaDB 10.11.13 | SQL Server |

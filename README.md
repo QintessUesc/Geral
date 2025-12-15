@@ -1,8 +1,4 @@
-# Sistemas Qintess
-Nossos Sistemas
-
-## 📊 Sistemas e Características Técnicas
-
+# 📊 Sistemas e Características Técnicas
 
 ## 🗳️ Estatuinte
 - **Link de acesso:** https://sorteioestatuinte.uesc.br/
